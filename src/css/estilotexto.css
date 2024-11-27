@@ -1,0 +1,24 @@
+h1 {
+    font-size: 35px;
+    color: red;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    padding: 30px;
+    border: 30px;
+    
+}
+
+p {
+
+    font-size: 25px;
+    color: red;
+    box-sizing: border-box;
+    margin: 30px;
+    padding: 30px;
+    border: 30px;
+}
+
+
+
